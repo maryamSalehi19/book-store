@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@import url(https://fonts.googleapis.com/css2?family=Niramit:wght@200&display=swap);
+
+$font: 'Niramit', sans-serif;
+
+@import 'scss/_general';
+@import "scss/_header";
+@import "scss/home";
